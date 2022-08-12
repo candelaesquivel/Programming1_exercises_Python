@@ -1,0 +1,17 @@
+Ejercicio 1: 
+
+
+Una empresa de venta de articulos del hogar posee empleados con un salario básico y un adicional por hora trabajada.
+Calcular e informar para cada empleado su sueldo. Finalizar la carga de datos con -1
+a) Informar el sueldo promedio.
+b) Cantidad de empleados con sueldo superor al sueldo básico de la empresa.
+Tener en cuenta:
+Puede suceder que un empleado cobre solo salario base. Por licencia o por considerar adicional por hora extra trabajada.
+Las entradas y salidas deben detallarlas en comentarios y definir, se obtienen del teclado. 
+
+
+Ejercicio 2: (
+Ingresar un numeros hasta ingresar -1 e informar:
+a) cantidad de valores impares ingresados
+b) cuál fue la mayor cantidad de elementos pares ingresados en forma consecutiva. 
+Ejemplo: se ingresan en el siguiente orden: 2 3 4 8 10 31 2 4 -1   serian 3 numeros pares consecutivos ingresados

@@ -1,6 +1,6 @@
 '''
-Esquivel Candela , Legajo: 1134110
-EJERCICIO 2- Segundo Parcial
+Esquivel Candela 
+EJERCICIO 2
 
 '''
 
